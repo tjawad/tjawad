@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tjawad
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning how to do bioimage analysis using Python 
-- 📫 You can reach me at s2286408.stud@gmail.com
+- 📫 You can reach me at s2286408@uni-frankfurt.de
 
 <!---
 tjawad/tjawad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
